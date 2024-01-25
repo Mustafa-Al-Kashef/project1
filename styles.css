@@ -1,0 +1,94 @@
+body {
+    font-family: 'Red Hat Display',
+        sans-serif;
+    min-height: 100vh;
+    background-image: url(https://www.digitshack.com/codepen/mentor1/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: hsl(225, 100%, 94%);
+    position: relative;
+    font-size: 16px;
+}
+
+.cont {
+  width: 350px;
+  height: 150px auto;
+  background-color:white;
+  margin: 150px auto;
+  text-align: center;
+  border-radius: 10px;
+  overflow: hidden;
+  max-width: 450px;
+
+}
+
+img {
+   width: 100%;
+   height: 170px;
+  border-radius: 10px 10px 0px 0px;
+
+}
+
+p {
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.cont2 {
+  width: 80%;
+  height:50px;
+  background-color: rgb(248, 249, 254);
+ margin: 10%;
+ border-radius: 10px;
+ box-sizing: border-box;
+
+
+
+}
+h5 {
+  margin-left: -25%;
+  color: hsl(224, 15%, 65%);
+}
+span {
+  margin-left: -25%;
+}
+.b1 {
+ margin-left: 200px;
+margin-top: -40px;
+display: block;
+}
+
+.p2{
+margin-top: -19px;
+display: block;
+margin-left: -60px;
+color: rgb(144, 152, 159);
+
+}
+
+.b2 {
+  width: 80%;
+  height: 40px;
+  background-color: rgb(45, 24, 215);
+  color: #fff;
+  border-radius: 10px;
+}
+
+.a3 {
+  width: 100px;
+  height: auto;
+  color: rgb(128, 159, 199);
+  margin: 0px 120px;
+  margin-top: 30px;
+  display: block;
+}
+
+h5 {
+  color: hsl(223, 82%, 7%);
+}
+
+.b2:hover {
+  background-color: cadetblue;
+  
+}
